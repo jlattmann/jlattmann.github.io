@@ -13,18 +13,9 @@ profile:
     <p>A 5, 6</p>
     <p>Mannheim, Germany</p>
 
-# selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-# announcements:
-#  enabled: true # includes a list of news items
-#  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#  limit: 5 # leave blank to include all the news in the `_news` folder
-
-# latest_posts:
-#  enabled: 
-#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitive text analysis and research design.
