@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences]([https://www.sowi.hu-berlin.de/en/dynamics](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitive text analysis and research design.
+Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitive text analysis and research design.
 
 I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation I concentrate on the consequences of the allocation of EU place-based policies. In my research I apply econometric, experimental and quasi-experimental designs as well as NLP approaches. 
 
