@@ -33,4 +33,4 @@ I focus on political behaviour and political economy in European democracies, ex
 
 Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic & Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
 
-On this website, you can learn more about my research and download my CV. Please reach out if you have want to [connect](mailto:Johannes.lattmann@uni-mannheim.de).
+On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
