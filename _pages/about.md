@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: 1598945152323.jpg.jpg
+  image: 1598945152323.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bauteil A – Raum 339</p>
