@@ -462,18 +462,18 @@ ninja.data = [{
           window.open("mailto:%4A%6F%68%61%6E%6E%65%73.%6C%61%74%74%6D%61%6E%6E@%75%6E%69-%6D%61%6E%6E%68%65%69%6D.%64%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/johanneslattmann", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-5134-8806", "_blank");
         },
       },{
         id: 'social-scholar',
