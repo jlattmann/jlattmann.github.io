@@ -26,22 +26,33 @@ Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic
 
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
 
+<br><br>
+
+<h2>Research Interests</h2>
+<ul>
+  <li>Attitudes towards European Union</li>
+  <li>Left-behind regions</li>
+  <li>Political Economy</li>
+  <li>Inequality</li>
+</ul>
+
+<br><br>
 
 <h2>🎓 Education</h2>
 <ul>
     <li>
     <strong>PhD, Political Science</strong><br>
-    <em>University of Mannheim (LSE)</em>
+    <em>University of Mannheim (LSE)</em> <br>
         <em>Supervised by Prof. Marc Debus</em>
   </li>
   <li>
     <strong>M.Sc., Political Science & Political Economy</strong><br>
-    <em>London School of Economics and Political Science (LSE)</em>
+    <em>London School of Economics and Political Science (LSE)</em> <br>
         <em>Supervised by Prof. Melissa Sands</em>
   </li>
   <li>
     <strong>B.A., Social Science</strong><br>
-    <em>Humboldt-University Berlin</em>
+    <em>Humboldt-University Berlin</em> <br>
     <em>Supervised by Prof. Heike Klüver</em>
   </li>
 </ul>
