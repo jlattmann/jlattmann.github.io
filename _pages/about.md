@@ -42,7 +42,7 @@ On this website, you can learn more about my research and download my CV. Please
 <ul>
     <li>
     <strong>PhD, Political Science</strong><br>
-    <em>University of Mannheim (LSE)</em> <br>
+    <em>University of Mannheim</em> <br>
         <em>Supervised by Prof. Marc Debus</em>
   </li>
   <li>
