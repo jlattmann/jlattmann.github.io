@@ -41,17 +41,17 @@ On this website, you can learn more about my research and download my CV. Please
 <h2>🎓 Education</h2>
 <ul>
     <li>
-    <strong>PhD, Political Science</strong><br>
+    <strong>PhD, Political Science (2022 - Now)</strong><br>
     <em>University of Mannheim</em> <br>
         <em>Supervised by Prof. Marc Debus</em>
   </li>
   <li>
-    <strong>M.Sc., Political Science & Political Economy</strong><br>
+    <strong>M.Sc., Political Science & Political Economy (2021-2022) </strong><br>
     <em>London School of Economics and Political Science (LSE)</em> <br>
         <em>Supervised by Prof. Melissa Sands</em>
   </li>
   <li>
-    <strong>B.A., Social Science</strong><br>
+    <strong>B.A., Social Science (2018 -2021)</strong><br>
     <em>Humboldt-University Berlin</em> <br>
     <em>Supervised by Prof. Heike Klüver</em>
   </li>
