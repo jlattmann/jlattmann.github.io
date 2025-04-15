@@ -466,7 +466,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/johanneslattmann", "_blank");
+          window.open("https://www.linkedin.com/in/johannes-lattmann-790175210", "_blank");
         },
       },{
         id: 'social-orcid',
