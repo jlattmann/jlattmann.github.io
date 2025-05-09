@@ -6,7 +6,7 @@ subtitle: Associate Researcher
 
 profile:
   align: right
-  image: 1598945152323.jpg
+  image: LattmannJohannes_print-JWE.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bauteil A – Raum 339</p>
