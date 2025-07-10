@@ -9,4 +9,4 @@ cv_pdf: CV_Lattmann.pdf
 #toc:
 #  sidebar: left
 ---
-<iframe src="/assets/pdf/CV.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/pdf/CV_Lattmann.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
