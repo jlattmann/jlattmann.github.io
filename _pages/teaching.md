@@ -14,15 +14,22 @@ nav_order: 4
 ### Courses
 
 - **Causal Inference in Comparitive Politics**  
- Undergraduate seminar – Winter 2025 (University of Mannheim)
+ Undergraduate seminar <br>
+Winter 2025 (University of Mannheim)
 
 - **Money in Politics**  
- Undergraduate seminar – Spring 2025, Spring 2025 (University of Mannheim)
+ Undergraduate seminar <br>
+ Spring 2024 (University of Mannheim) <br>
+ Spring 2025 (University of Mannheim)
 
 - **Introduction to Text Analysis, NLP and Machine Learning in R**  
-  Undergraduate seminar – Winter 2023, Winter 2024 (University of Mannheim)
-  
+  Undergraduate seminar <br>
+  Winter 2023 (University of Mannheim) <br>
+  Winter 2024 (University of Mannheim) <br>
+  Winter 2025 (University of Mannheim)
 - **Data Analysis**  
-  Undergraduate seminar (Teaching Assistant) – Spring 2023 (University of Mannheim)
+  Undergraduate seminar (Teaching Assistant) <br>
+  Spring 2023 (University of Mannheim)
+
 ---
 
