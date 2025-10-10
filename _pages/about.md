@@ -32,8 +32,8 @@ On this website, you can learn more about my research and download my CV. Please
 <ul>
   <li>Attitudes towards European Union</li>
   <li>Left-behind regions</li>
-  <li>Political Economy</li>
-  <li>Inequality</li>
+  <li>Political attitudes</li>
+  <li>Party Politics</li>
 </ul>
 
 <br><br>
