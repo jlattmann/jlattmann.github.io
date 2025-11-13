@@ -1,0 +1,9 @@
+/* Reduce publication preview image size on phones */
+@media only screen and (max-width: 600px) {
+  .pub-thumb img {
+    width: 60% !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+}
