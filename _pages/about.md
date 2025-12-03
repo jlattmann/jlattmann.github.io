@@ -5,6 +5,7 @@ permalink: /
 subtitle: Doctoral Researcher
 
 profile:
+  # FIX: All keys below must be indented by 2 spaces from 'profile:'
   align: left # MOVED PICTURE TO THE LEFT
   image: LattmannJohannes_print-JWE.jpg
   image_circular: false # crops the image to make it circular
@@ -45,7 +46,7 @@ On this website, you can learn more about my research and download my CV. Please
     </div>
 
     <div style="flex: 1; min-width: 300px;">
-        <h2>Education</h2>
+        <h2>🎓 Education</h2>
         <ul>
             <li>
                 <strong>PhD, Political Science (2022 - Now)</strong><br>
