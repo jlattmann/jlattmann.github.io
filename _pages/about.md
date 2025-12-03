@@ -33,8 +33,8 @@ On this website, you can learn more about my research and download my CV. Please
 
 </div>
 <br>
-
 <div style="display: flex; gap: 40px;">
+
     <div style="flex: 1; min-width: 300px;">
         <h2>Research Interests</h2>
         <ul>
@@ -46,7 +46,7 @@ On this website, you can learn more about my research and download my CV. Please
     </div>
 
     <div style="flex: 1; min-width: 300px;">
-        <h2>🎓 Education</h2>
+        <h2>Education</h2>
         <ul>
             <li>
                 <strong>PhD, Political Science (2022 - Now)</strong><br>
