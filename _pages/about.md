@@ -21,12 +21,12 @@ social: true # ENSURES SOCIAL ICONS APPEAR UNDER THE 'more_info' BLOCK
 ---
 <div style="text-align: justify;" markdown="1">
 
-Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitive text analysis and research design.
+Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitative text analysis and research design.
 
-I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation I concentrate on the consequences of the allocation of EU place-based policies.
-In my research I apply econometric, experimental and quasi-experimental designs as well as NLP approaches. 
+I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I concentrate on the consequences of the allocation of EU place-based policies.
+In my research, I apply econometric, experimental, and quasi-experimental designs as well as NLP approaches. 
 
-Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic &amp; Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
+Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic &amp; Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
 
 </div>
