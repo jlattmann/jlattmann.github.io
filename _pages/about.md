@@ -19,7 +19,7 @@ selected_papers: false
 social: true # ENSURES SOCIAL ICONS APPEAR UNDER THE 'more_info' BLOCK
 
 ---
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 
 Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitive text analysis and research design.
 
