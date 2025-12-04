@@ -12,8 +12,9 @@ nav_order: 4
 ---
 
 ### Courses
+7 courses taught - average course evaluation: 1.4
 
-- **Causal Inference in Comparitive Politics**  
+- **Causal Inference in Comparative Politics**  
  Undergraduate seminar <br>
 Winter 2025 (University of Mannheim)
 
