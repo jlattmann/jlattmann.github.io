@@ -19,6 +19,31 @@ selected_papers: false
 social: true # ENSURES SOCIAL ICONS APPEAR UNDER THE 'more_info' BLOCK
 
 ---
+<style>
+/* Apply changes only on mobile */
+@media (max-width: 1000px) {
+
+  /* Target your two-column container */
+  .two-column {
+    display: flex !important;
+    flex-direction: column !important; /* stack vertically */
+  }
+
+  /* Ensure Research Interests comes first and Education second */
+  .two-column > div:nth-child(1) {
+    order: 1;
+  }
+
+  .two-column > div:nth-child(2) {
+    order: 2;
+  }
+
+}
+</style>
+
+<div class="two-column" style="display: flex; gap: 40px;">
+
+
 <div style="text-align: justify;" markdown="1">
 
 Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitative text analysis and research design.
