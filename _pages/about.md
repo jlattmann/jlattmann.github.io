@@ -5,10 +5,9 @@ permalink: /
 subtitle: Doctoral Researcher
 
 profile:
-  # YAML Structure is corrected for indentation (2 spaces)
-  align: left # MOVED PICTURE TO THE LEFT
+  align: left
   image: LattmannJohannes_print-JWE.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>University of Mannheim</p>
     <p>Doctoral Researcher</p>
@@ -16,9 +15,9 @@ profile:
     <p>Mannheim, Germany</p>
 
 selected_papers: false
-social: true # ENSURES SOCIAL ICONS APPEAR UNDER THE 'more_info' BLOCK
-
+social: true
 ---
+
 <style>
 /* Apply changes only on mobile */
 @media (max-width: 1000px) {
@@ -41,9 +40,6 @@ social: true # ENSURES SOCIAL ICONS APPEAR UNDER THE 'more_info' BLOCK
 }
 </style>
 
-<div class="two-column" style="display: flex; gap: 40px;">
-
-
 <div style="text-align: justify;" markdown="1">
 
 Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitative text analysis and research design.
@@ -55,10 +51,12 @@ Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
 
 </div>
+
 <div style="clear: both;"></div>
 <br>
 
-<div style="display: flex; gap: 40px;">
+<!-- This is now the ONLY flex container for the two columns -->
+<div class="two-column" style="display: flex; gap: 40px;">
 
     <div style="flex: 1; min-width: 300px;">
         <h2>Research Interests</h2>
@@ -79,7 +77,7 @@ On this website, you can learn more about my research and download my CV. Please
                 <em>Supervised by Prof. Marc Debus</em>
             </li>
             <li>
-                <strong>M.Sc., Political Science & Political Economy (2021-2022) </strong><br>
+                <strong>M.Sc., Political Science & Political Economy (2021-2022)</strong><br>
                 <em>London School of Economics and Political Science (LSE)</em> <br>
                 <em>Supervised by Prof. Melissa Sands</em>
             </li>
@@ -91,3 +89,4 @@ On this website, you can learn more about my research and download my CV. Please
         </ul>
     </div>
 </div>
+
