@@ -44,8 +44,10 @@ social: true
 
 Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitative text analysis and research design.
 
-I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I concentrate on the consequences of the allocation of EU place-based policies.
-In my research, I apply econometric, experimental, and quasi-experimental designs as well as NLP approaches. 
+I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I focus on the consequences of the allocation of EU place-based policies.
+Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
+
+My work has been published in journals such as [Electoral Studies]([https://www.lse.ac.uk/](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2).
 
 Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic &amp; Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
@@ -74,7 +76,7 @@ On this website, you can learn more about my research and download my CV. Please
             <li>
                 <strong>PhD, Political Science (2022 - Now)</strong><br>
                 <em>University of Mannheim</em> <br>
-                <em>Supervised by Prof. Marc Debus</em>
+                <em>Supervised by Prof. Marc Debus and Prof. Valentin Lang</em>
             </li>
             <li>
                 <strong>M.Sc., Political Science & Political Economy (2021-2022)</strong><br>
@@ -84,7 +86,7 @@ On this website, you can learn more about my research and download my CV. Please
             <li>
                 <strong>B.A., Social Science (2018 -2021)</strong><br>
                 <em>Humboldt-University Berlin</em> <br>
-                <em>Supervised by Prof. Heike Klüver</em>
+                <em>Supervised by Prof. Heike Klüver and Prof. Anselm Hager </em>
             </li>
         </ul>
     </div>
