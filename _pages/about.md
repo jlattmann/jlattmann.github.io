@@ -47,7 +47,7 @@ Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Eco
 I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I focus on the consequences of the allocation of EU place-based policies.
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
 
-My work has been published in journals such as [Electoral Studies]([https://www.lse.ac.uk/](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2).
+My work has been published in journals such as [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2).
 
 Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic &amp; Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
