@@ -48,7 +48,8 @@ I focus on political behaviour and political economy in European democracies, ex
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
 
 My work has been published in journals such as [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2). 
-In 2023, I was awarded the [CDSS Young Scholar Award](https://www.uni-mannheim.de/news/and-the-winners-of-the-2023-gess-awards-are/) for organizing job talks aimed at supporting the career development of Master’s and PhD students.
+
+In 2023, I was awarded the [CDSS Young Scholar Award](https://www.uni-mannheim.de/news/and-the-winners-of-the-2023-gess-awards-are/) for organizing job talks to support the career development of Master’s and PhD students.
 
 Before my start in Mannheim, I obtained a M.Sc at the [London School of Economic &amp; Political Sciences](https://www.lse.ac.uk/) and a B.A in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/).
 On this website, you can learn more about my research and download my CV. Please reach out if you want to [connect](mailto:Johannes.lattmann@uni-mannheim.de)!
