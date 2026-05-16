@@ -12,7 +12,7 @@ nav_order: 4
 ---
 
 ### Courses
-7 courses taught - average course evaluation: 1.4
+9 courses taught - average course evaluation: 1.4
 
 - **Causal Inference in Comparative Politics**  
  Undergraduate seminar <br>
