@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Doctoral Researcher
+subtitle: Postdoctoral Researcher
 
 profile:
   align: left
@@ -42,7 +42,9 @@ social: true
 
 <div style="text-align: justify;" markdown="1">
 
-Hi! I am Johannes Lattmann, a doctoral researcher at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim. I am also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and teach courses on quantitative text analysis and research design.
+Hi! I am Johannes Lattmann, a Postdoctoral researcher at the Goethe University Frankfurt. 
+
+I have been associated with the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim, and will defend my dissertation in September. Here, I was also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and taught courses on quantitative text analysis and research design.
 
 I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I focus on the consequences of the allocation of EU place-based policies.
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
