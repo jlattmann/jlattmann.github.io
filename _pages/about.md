@@ -9,10 +9,10 @@ profile:
   image: LattmannJohannes_print-JWE.jpg
   image_circular: false
   more_info: >
-    <p>University of Mannheim</p>
-    <p>Doctoral Researcher</p>
-    <p><a href="mailto:Johannes.lattmann@uni-mannheim.de">Johannes.lattmann@uni-mannheim.de</a></p>
-    <p>Mannheim, Germany</p>
+    <p>Goethe University Frankfurt</p>
+    <p>Postdoctoral Researcher</p>
+    <p><a href="mailto:lattmann@soz.uni-frankfurt.de">lattmann@soz.uni-frankfurt.de</a></p>
+    <p>Frankfurt, Germany</p>
 
 selected_papers: false
 social: true
@@ -46,7 +46,7 @@ Hi! I am Johannes Lattmann, a Postdoctoral researcher at the Goethe University F
 
 I have been associated with the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim, and will defend my dissertation in September. Here, I was also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and taught courses on quantitative text analysis and research design.
 
-I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I focus on the consequences of the allocation of EU place-based policies.
+I focus on political behaviour and political economy in European democracies, examining changes in public opinion and attitudes. In my dissertation, I examined the consequences of the allocation of EU place-based policies.
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
 
 My work has been published in journals such as [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2). 
@@ -68,7 +68,7 @@ On this website, you can learn more about my research and download my CV. Please
         <h2>Research Interests</h2>
         <ul>
             <li>Attitudes towards European Union</li>
-            <li>Left-behind regions</li>
+            <li>Social Policies</li>
             <li>Political attitudes</li>
             <li>Party Politics</li>
         </ul>
