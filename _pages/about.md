@@ -80,12 +80,12 @@ On this website, you can learn more about my research and download my CV. Please
             <li>
                 <strong>PhD, Political Science (2022 - Now)</strong><br>
                 <em>University of Mannheim</em> <br>
-                <em>Supervised by Prof. Marc Debus and Prof. Valentin Lang</em>
-                <em>Summa cum laude</em>
+                <em>Supervised by Prof. Marc Debus and Prof. Valentin Lang </em> <br>
+                <em>Summa cum laude </em>
             </li>
             <li>
                 <strong>M.Sc., Political Science & Political Economy (2021-2022)</strong><br>
-                <em>London School of Economics and Political Science</em> <br>
+                <em>London School of Economics and Political Science </em> <br>
                 <em>Supervised by Prof. Melissa Sands</em>
             </li>
             <li>
