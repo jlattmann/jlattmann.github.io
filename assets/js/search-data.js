@@ -483,6 +483,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-5134-8806", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Johannes-Lattmann-2/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
