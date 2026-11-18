@@ -42,12 +42,12 @@ social: true
 
 <div style="text-align: justify;" markdown="1">
 
-Hi! I am Johannes Lattmann, a Postdoctoral researcher at the Goethe University Frankfurt. 
+Hi! I am Johannes Lattmann, a Postdoctoral researcher at Goethe University Frankfurt. 
 
-I have been associated with the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), at the University of Mannheim, and will defend my dissertation in September. Here, I was also an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and taught courses on quantitative text analysis and research design.
-
-In my research, I am interested in the analysis of the societal consequences of economic structural changes, examining changes in public opinion, attitudes and social structure. In my dissertation, I examined the consequences of the allocation of EU place-based policies.
+In my research, I analyze the societal consequences of economic structural changes, including shifts in public opinion, attitudes, and social structure. In my dissertation, I examined the consequences of the allocation of EU place-based policies. 
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
+
+I received my Ph.D. from the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim. There, I also worked as an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and taught courses on quantitative text analysis, political economy, and research design.
 
 My work has been published in journals such as [Journal of European Public Policy](https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2739423), [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S0261379424000568), [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165261423537), [Party Politics](https://journals.sagepub.com/doi/full/10.1177/13540688261492177) and [Public Choice](https://link.springer.com/article/10.1007/s11127-024-01164-2). 
 
