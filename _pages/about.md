@@ -67,7 +67,7 @@ On this website, you can learn more about my research and download my CV. Please
     <div style="flex: 1; min-width: 300px;">
         <h2>Research Interests</h2>
         <ul>
-            <li>Social Policies</li>
+            <li>Political Economy</li>
             <li>Inequality and redistribution</li>
             <li>Political attitudes</li>
             <li>European Union</li>
