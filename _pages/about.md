@@ -79,7 +79,7 @@ On this website, you can learn more about my research and download my CV. Please
         <h2>Education</h2>
         <ul>
             <li>
-                <strong>PhD, Political Science (2022 - Now)</strong><br>
+                <strong>PhD, Political Science (2022 - 2026)</strong><br>
                 <em>University of Mannheim</em> <br>
                 <em>Supervised by Prof. Marc Debus and Prof. Valentin Lang </em> <br>
                 <em>Summa cum laude </em>
