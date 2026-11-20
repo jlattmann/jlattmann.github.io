@@ -44,7 +44,8 @@ social: true
 
 Hi! I am Johannes Lattmann, a Postdoctoral researcher at Goethe University Frankfurt. 
 
-In my research, I analyze the societal consequences of economic structural changes, including shifts in public opinion, attitudes, and social structure. In my dissertation, I examined the consequences of the allocation of EU place-based policies. 
+I am a political scientist specializing in political economy, economic inequality, redistribution, and European integration. My research examines how public investment, economic change, and migration shape political attitudes,
+electoral behavior, and policy preferences. In my dissertation, I examined the consequences of the allocation of EU place-based policies. 
 Methodologically, I utilize a range of quantitative methods, including causal inference, experiments, and various techniques from the computational text analysis toolkit. 
 
 I received my Ph.D. from the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim. There, I also worked as an associate researcher at the Chair of Comparative Politics with Prof. Marc Debus and taught courses on quantitative text analysis, political economy, and research design.
